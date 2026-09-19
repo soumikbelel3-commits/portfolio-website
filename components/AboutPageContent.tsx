@@ -11,6 +11,8 @@ const groups = [
       "Backtesting",
       "Risk & portfolio",
       "Trading dashboards",
+      "Real-time data (Redis / TimescaleDB)",
+      "Streamlit risk tools",
     ],
   },
   {
@@ -20,6 +22,8 @@ const groups = [
       "EDA & modeling",
       "BI dashboards",
       "Churn & retention",
+      "Power BI (DAX) / Tableau",
+      "Pandas / scikit-learn",
     ],
   },
   {
@@ -29,6 +33,8 @@ const groups = [
       "API design",
       "Product UX",
       "Deploy & iterate",
+      "React / Tailwind CSS",
+      "FastAPI / REST APIs",
     ],
   },
 ];
